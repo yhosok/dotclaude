@@ -1,0 +1,7 @@
+*
+!*/
+!.git/*
+!.gitignore
+!.gitattributes
+
+!commands/spec2tasks.md
