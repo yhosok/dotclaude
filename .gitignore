@@ -4,4 +4,5 @@
 !.gitignore
 !.gitattributes
 
-!commands/spec2tasks.md
+!README.md
+!commands/design2tasks.md
