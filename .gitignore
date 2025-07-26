@@ -7,3 +7,5 @@
 !README.md
 !commands/design2tasks.md
 !commands/figma2mock.md
+!agents/*
+!settings.local.json
