@@ -1,6 +1,7 @@
 ---
 name: coder
 description: Use this agent when you need to implement complex technical features, refactor critical code sections, or solve challenging architectural problems that require deep expertise. Examples: <example>Context: User needs to implement a complex multi-tenant data synchronization system with real-time updates. user: "I need to implement a real-time synchronization system between our warehouse management system and multiple external ERP platforms, ensuring data consistency across tenants" assistant: "I'll use the expert-implementation-specialist agent to design and implement this complex synchronization architecture" <commentary>This requires advanced technical implementation skills for complex system integration, making it perfect for the expert implementation specialist.</commentary></example> <example>Context: User encounters a performance bottleneck in the shipment allocation system that requires sophisticated optimization. user: "Our shipment allocation is taking too long with large datasets. We need to optimize the AllocateHighPriorityShipments job" assistant: "Let me engage the expert-implementation-specialist agent to analyze and optimize this performance-critical system" <commentary>Performance optimization of critical business logic requires expert-level implementation skills.</commentary></example>
+model: sonnet
 color: blue
 ---
 
